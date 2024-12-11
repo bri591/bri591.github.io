@@ -2,7 +2,7 @@
 # Brianna Bahena's Portfolio
 
 I'm currently a second year student attending California State University, Fullerton. 
-My major is Computer Science with a minor in Cinema and Televison Visual Arts. I plan on graduating in 2028.
+My major is Computer Science with a minor in Cinema and Televison Visual Arts. I plan on graduating in 2028. Link to My GitHub profile: https://github.com/bri591.
 
 # Favorite Labs in 120L Labs
 
