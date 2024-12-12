@@ -11,8 +11,8 @@ My major is Computer Science with a minor in Cinema and Televison Visual Arts. I
     This is another one of my favorite labs since I was able to understand the use of functions 
     and how organized the program becomes. I think there are plenty of practical uses for 
     functions when it comes to putting your data neatly, storing information, or 
-    just putting the program into a format that’s easier to read. Also, it made me realize how  
-    calculators work and how they are programmed to calculate bigger numbers.   
+    just putting the program into a format that’s easier to read. Also, it made me realize how 
+    calculators work and how they are programmed to calculate bigger numbers.
 
 * Lab 7
 
